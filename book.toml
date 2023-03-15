@@ -1,5 +1,18 @@
 [book]
+title = "dsa-rs"
 authors = ["Karthik D k <karthikdk1998@gmail.com>"]
+description = "This book is written to capture my understanding of DSA."
 language = "en"
 multilingual = false
 src = "src"
+
+[rust]
+edition = "2021"
+
+[output.html]
+default-theme = "Rust"
+preferred-dark-theme = "Ayu"
+curly-quotes = true
+git-repository-url = "https://github.com/Karthik-d-k/dsa-rs"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/Karthik-d-k/dsa-rs/edit/main/{path}"
