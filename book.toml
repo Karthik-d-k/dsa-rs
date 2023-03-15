@@ -3,8 +3,6 @@ title = "dsa-rs"
 authors = ["Karthik D k <karthikdk1998@gmail.com>"]
 description = "This book is written to capture my understanding of DSA."
 language = "en"
-multilingual = false
-src = "src"
 
 [rust]
 edition = "2021"
